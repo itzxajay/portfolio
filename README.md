@@ -53,7 +53,7 @@ cd portfolio
 
 Open index.html in your browser.
 
-**💡 Notes**
+💡 Notes
 
 Ensure all assets (images, fonts) are correctly linked.
 
